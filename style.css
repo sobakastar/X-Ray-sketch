@@ -853,7 +853,7 @@ body:after {
 }
 
 .scaner:before {
-	content: "ГРИШАН";
+	content: "Вёрстка: ГРИШАН";
 	font-family: Arial, Helvetica, serif;
 	color: #0008;
 	font-size: 8px;
